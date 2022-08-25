@@ -1,3 +1,5 @@
+@import "composition/_root.css";
+
 :root {
   --content-width: 65rem;
 }
@@ -42,6 +44,7 @@ img {
 }
 
 main {
+  background-color: var(--clr-grey-600);
   min-height: calc(100vh - 10rem);
 }
 main:focus {

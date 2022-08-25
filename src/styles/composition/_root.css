@@ -1,0 +1,11 @@
+:root {
+  /* structure of a variable */
+  --clr-grey-200: silver;
+  --clr-grey-400: grey;
+  --clr-grey-600: #7d7d7d;
+
+  --prim-clr-600: ;
+  --sec-clr-200: ;
+
+  --main-padding: ;
+}
